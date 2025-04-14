@@ -14,6 +14,7 @@ En base a los resultados del modelo, los estudiantes deberán desarrollar un sis
 - Aplicar técnicas de sistemas de recomendación.
 - Visualizar y comunicar hallazgos de forma profesional.
 
+<how-to-start>
 
 ## 🌱 Cómo iniciar este proyecto
 
@@ -23,6 +24,7 @@ Sigue las siguientes instrucciones:
 2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
+</how-to-start>
 
 ## 📝 Instrucciones
 
@@ -67,6 +69,30 @@ Sigue las siguientes instrucciones:
     # Ejemplo: Usuario de 25 años, secundario completo, trabaja medio tiempo
     perfil_usuario = {...}
     ```
+
+## 🚀 Haz visible tu trabajo
+
+Trabajaste con datos abiertos del censo estadounidense, limpiaste y transformaste variables clave como educación, país de origen, horas trabajadas, y construiste un sistema de recomendación que predice el ingreso estimado de una persona a los 40 años.
+
+Ahora es tu turno de **comunicar lo que descubriste**: comparte insights poderosos y respaldados por datos. Mostrá que no solo sabés programar modelos, sino también pensar con ellos.
+
+
+### ¿Qué compartir?
+
+Publica una reflexión breve y objetiva que surja de tus análisis. Apuntá a temas relevantes como educación, esfuerzo laboral, desigualdad, género o nacionalidad. Ademas suma una visualización, una predicción hecha por tu sistema, o simplemente una observación contundente con respaldo en los datos.
+
+
+### ✨ Ejemplos posteables
+
+> "**¿Cuánto vale trabajar más?**
+>
+> **Trabajar 60 horas por semana no garantiza ganar más de 50K al año. Según mi sistema de recomendación entrenado con datos del censo de EE.UU., mejorar el nivel educativo tiene mayor impacto en los ingresos futuros que duplicar las horas de trabajo. La IA también detecta burnout. 🧠💼"**
+
+>"**¿Destino o diseño?**
+>
+> **Una persona con título universitario nacida en Japón tiene el doble de chances de ganar más de 50K que alguien con el mismo título nacido en México. ¿El futuro está determinado por el esfuerzo o por el país de origen? Entrené una IA para recomendar caminos hacia mejores ingresos, y los datos cuentan una historia profunda.**"
+
+
 
 ## 🚛 Cómo entregar este proyecto
 

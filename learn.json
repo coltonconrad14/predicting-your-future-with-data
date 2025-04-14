@@ -8,6 +8,7 @@
       "es": "Construye un modelo de clasificación supervisada para predecir si una persona superará cierto umbral de ingresos anuales a partir de datos demográficos, y desarrolla un sistema de recomendación interpretativo que sugiera caminos alternativos para mejorar su situación.",
       "us": "Build a supervised classification model to predict whether a person will surpass a certain annual income threshold based on demographic data, and develop an interpretative recommendation system that suggests alternative paths to improve their situation."
     },
+    "solution": "https://github.com/4GeeksAcademy/predicting-your-future-with-data/blob/main/solution.ipynb",
     "duration": 5,
     "difficulty": "intermediate",
     "technologies": [
@@ -19,6 +20,5 @@
     ],
     "projectType": "project",
     "preview": "https://github.com/4GeeksAcademy/predicting-your-future-with-data/blob/main/preview.png?raw=true",
-    "template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
-    "gitpod":true
+    "template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template"
   }
